@@ -1,5 +1,5 @@
 # JobNavigator
-I created this guide out of my passion for the developer community. A star :glowing_star: on this repo would be greatly appreciated :smiling_face_with_open_hands:, as it motivates me to dedicate more time to it.
+I created this guide out of my passion for the developer community. A star 🌟 on this repo would be greatly appreciated 🤗, as it motivates me to dedicate more time to it.
 
 If you have any comments, ideas, or appreciation, please use the [discussions](https://github.com/mohammadi-com/JobNavigator/discussions) tab. Don't hesitate to **clone**, **fork**, and submit **pull requests**!
 
@@ -7,7 +7,7 @@ This guide is designed like a to-do list, so there's no need to read it all at o
 
 ## Steps
 <ol>
-<li><a href="#Resume Prepration">Resume Prepration</a></li>
+<li><a href="#resume-prepration">Resume Prepration</a></li>
 <li>Customized Cover Letter generation</li>
 <li>Track and apply</li>
 </ol>
@@ -19,6 +19,7 @@ I was a fan of creating my resume using my own LaTeX template, but I realized th
 Before your resume reaches a real human, it’s often first skimmed by an Application Tracking System (ATS). Therefore, it's crucial to ensure that your resume's text is readable and extractable by these systems. While I love the authenticity of a handcrafted resume, it's in your best interest to use resume builders to create your resume. Most ATS are optimized for these resume formats and can read them easily. This increases your chances of being noticed and, hopefully, invited to an interview.
 
 [Resume.com](https://www.resume.com/) is a great, free, easy to use tool to create resume.
+
 Notes:
 - Don't use ChatGPT to write the whole resume for you. Instead, write it yourself and use ChatGPT as an assistant. A simple command is: "Rewrite and keep my tone." This approach keeps your text authentic, but without grammar or dictation mistakes, and sometimes with better wording.
 - Check for dictation and grammar mistakes using [Grammarly.com](https://www.grammarly.com/). It is very important to write correctly, as it shows your attention to detail.
