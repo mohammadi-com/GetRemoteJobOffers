@@ -34,3 +34,7 @@ A resume is a finely-tuned document that takes a lot of effort to perfect. This 
 Keep your cover letter simple, concise, and straight to the point. Put yourself in the recruiter's shoes: Why should they choose you? Make yourself stand out. How? Start by carefully reading the job posting and researching the company. In your cover letter, be genuine—share which aspects of their business resonate with you and highlight the skills and expertise you bring to the table that align with the job.
 
 I've noticed some people skip the cover letter entirely, and that's a big mistake. Leaving it blank sends the message that you're not really serious about the opportunity.
+
+I've developed a tool that makes creating customized cover letters and tracking job applications easier—all in one place: https://docs.google.com/spreadsheets/d/1JLJsuzzWHczKW7iCFxVbFBNklphQIl29-j2WxLb1geQ/edit?usp=sharing
+
+If you think this could be helpful, feel free to email me at m[at]mohammadi.com, and I'll be happy to share a copy with you.
