@@ -1,4 +1,4 @@
-# JobNavigator
+# GetRemoteOffers - ASAP
 I created this guide out of my passion for the developer community. A star 🌟 on this repo would be greatly appreciated 🤗, as it motivates me to dedicate more time to it.
 
 If you have any comments, ideas, or appreciation, please use the [discussions](https://github.com/mohammadi-com/JobNavigator/discussions) tab. Don't hesitate to **clone**, **fork**, and submit **pull requests**!
