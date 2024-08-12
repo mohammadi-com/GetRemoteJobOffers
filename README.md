@@ -8,7 +8,7 @@ This guide is designed like a to-do list, so there's no need to read it all at o
 ## Steps
 <ol>
 <li><a href="#resume-prepration">Resume Prepration</a></li>
-<li>Customized Cover Letter generation</li>
+<li><a href="#customized-cover-letter-generation">Customized Cover Letter generation</a></li>
 <li>Track and apply</li>
 </ol>
 
@@ -26,3 +26,11 @@ Notes:
 - Make sure all the links are working properly in different environments.
 - Include the location for each job, and if you have remote work experience, indicate "remote". This is a good sign for remote-first companies, showing that you have experience working in remote teams.
 - Upload your resume to the [ResumeWorded](https://resumeworded.com/) and get your score. Aim for 80 or more. The tool itself gives you a helpful feedback how to make your resume better. You can also read their public material to learn how to write a better resume. Re-iterate on this until you're satisfied then go to the next step.
+
+
+## Customized Cover Letter Generation
+A resume is a finely-tuned document that takes a lot of effort to perfect. This makes it challenging to customize every single time (though if you can, that's fantastic). That's where a cover letter comes in—it's your chance to build on your resume and explain why you're the ideal candidate for this specific job.
+
+Keep your cover letter simple, concise, and straight to the point. Put yourself in the recruiter's shoes: Why should they choose you? Make yourself stand out. How? Start by carefully reading the job posting and researching the company. In your cover letter, be genuine—share which aspects of their business resonate with you and highlight the skills and expertise you bring to the table that align with the job.
+
+I've noticed some people skip the cover letter entirely, and that's a big mistake. Leaving it blank sends the message that you're not really serious about the opportunity.
