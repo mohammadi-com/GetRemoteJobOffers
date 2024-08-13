@@ -41,14 +41,6 @@ I've developed a tool that makes creating customized cover letters and tracking 
 If you think this could be helpful, feel free to email me at m[at]mohammadi.com, and I'll be happy to share a copy with you.
 
 ## Start Applying for Jobs
-As you may know the main source for the job opportunities is Linkedin. Start applying on Linkedin. These are the tips:
-- Complete your profile. You can use Linkedin Premium to get AI assisted headlines, text, and more insight on the job market.
-- Ask from previous co-workers to write a recommendation for you.
-- Put a smily, not overly formal picture of yourself as the profile picture. Don't put a full-lenght photo, just your face and make it visible.
-- Try to engage and publish contents related to your field.
-- Make yourself stand out. Pass the Linkedin assesments to be promoted by Linkedin to recruiters: 
-- Never apply using EasyApply. Most of the times Linkedin is not connected to the ATS softwares and it's hard for recruiters to check your resume. Instead, go and apply on their website directly.
-
 As you may know, LinkedIn is the main source for job opportunities, so start applying there. Here are some tips:
 
 - **Complete your profile.** Consider using LinkedIn Premium for AI-assisted headlines, personalized text, and deeper insights into the job market.
@@ -57,7 +49,7 @@ As you may know, LinkedIn is the main source for job opportunities, so start app
 - **Engage with content** related to your field and publish your own to increase your visibility.
 - **Stand out by passing LinkedIn assessments.** This can help LinkedIn promote you to recruiters. ![LinkedInAssessment](./Images/LinkedInAssessment.png)
 - **Avoid using EasyApply.** Often, LinkedIn isn’t fully integrated with ATS software, making it harder for recruiters to see your resume. Instead, apply directly on the company's website.
-- **Search for worldwide opportunities.** Include "worldwide" in your search مخزشفهخد for remote jobs to expand your options and see more opportunities. ![WorldWide](./Images/WorldWide.png)
+- **Search for worldwide opportunities.** Include "worldwide" in your search location for remote jobs to expand your options and see more opportunities. ![WorldWide](./Images/WorldWide.png)
 - **Prioritize job posts with under 10 applicants.** With less competition, you have a better chance of landing an interview. However, this doesn’t mean you should ignore other job postings—apply broadly, but focus on those with fewer applicants first. ![Under10](./Images/Under10.png) 
 - **Obviously, turn on the remote option** in your job search filters.
 
