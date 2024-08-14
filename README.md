@@ -61,7 +61,6 @@ As you may know, LinkedIn is the main source for job opportunities, so start app
 - **Search for worldwide opportunities.** Include "worldwide" in your search location for remote jobs to expand your options and see more opportunities. ![WorldWide](./Images/WorldWide.png)
 - **Prioritize job posts with under 10 applicants.** With less competition, you have a better chance of landing an interview. However, this doesn’t mean you should ignore other job postings—apply broadly, but focus on those with fewer applicants first. ![Under10](./Images/Under10.png) 
 - **Obviously, turn on the remote option** in your job search filters.
-
 ![RemoteFilter](./Images/RemoteFilter.png)
 
 Absolutely, LinkedIn is a powerhouse for job hunting, but don't sleep on other platforms. They often have less competition, giving you a better shot at landing something great. Case in point: I found my London gig on [Cord.co](https://cord.co/).
@@ -72,7 +71,13 @@ Absolutely, LinkedIn is a powerhouse for job hunting, but don't sleep on other p
 ### [RemoteOK](https://remoteok.com/)
 If you're after remote work, [RemoteOK](https://remoteok.com/) is a gem.
 
-### [HoneyPot](https://www.honeypot.io/en/)
+### [HoneyPot](https://www.honeypot.io/)
+
+HoneyPot is a reverse-apply platform, meaning you set up your profile, and companies come to you with job opportunities. The great part is that once your profile is ready, you don't have to do much else. We also leverage HoneyPot for its resources. One standout feature is the dedicated talent advisor who can set up mock interviews for you at no cost, so you can practice before the real thing—definitely a game-changer.
+
+They also have a [dev-community](https://cult.honeypot.io/) packed with in-depth reports, offering valuable insights into the job market if that’s something you're interested in.
+
+One thing to note: when creating your account, you'll be asked about the types of jobs you're after. If you say you're only looking for remote roles, your account might not get activated. A better strategy is to indicate that you're open to jobs and willing to relocate, but with a preference for remote work. This is actually realistic because if an amazing relocation offer comes your way, you might just take it.
 
 
 
