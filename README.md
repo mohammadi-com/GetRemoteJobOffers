@@ -15,6 +15,9 @@ This guide is designed like a to-do list, so there's no need to read it all at o
         <li><a href="#cord">Cord</a></li>
         <li><a href="#remoteok">RemoteOK</a></li>
         <li><a href="#honeypot">HoneyPot</a></li>
+        <li><a href="#indeed">Indeed</a></li>
+        <li><a href="#wellfound-formerly-angellist">Wellfound (Formerly AngelList)</a></li>
+        <li><a href="#golangprojects">GolangProjects</a></li>
     </ul>
 </li>
 </ol>
@@ -78,6 +81,19 @@ HoneyPot is a reverse-apply platform, meaning you set up your profile, and compa
 They also have a [dev-community](https://cult.honeypot.io/) packed with in-depth reports, offering valuable insights into the job market if that’s something you're interested in.
 
 One thing to note: when creating your account, you'll be asked about the types of jobs you're after. If you say you're only looking for remote roles, your account might not get activated. A better strategy is to indicate that you're open to jobs and willing to relocate, but with a preference for remote work. This is actually realistic because if an amazing relocation offer comes your way, you might just take it.
+
+### [Indeed](https://indeed.com/)
+[Indeed](https://indeed.com/) is one of the largest job listing platforms out there, offering a vast range of opportunities across different industries.
+
+### [Wellfound (Formerly AngelList)](https://wellfound.com/)
+[Wellfound](https://wellfound.com/) focuses on startup job opportunities, especially in North America. However, keep in mind that if you have more than a 2-hour time zone difference, your chances of landing an interview might decrease.
+
+### [GolangProjects](https://www.golangprojects.com/)
+[GolangProjects](https://www.golangprojects.com/) is dedicated to Go developers, making it a solid resource for Go-related job opportunities.
+
+I'm always on the lookout for more domain and language-specific job platforms, so if you know of any, feel free to share them in the [discussions](https://github.com/mohammadi-com/JobNavigator/discussions) section.
+
+
 
 
 
