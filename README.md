@@ -15,7 +15,9 @@ This guide is designed like a to-do list, so there's no need to read it all at o
         <li><a href="#cord">Cord</a></li>
         <li><a href="#remoteok">RemoteOK</a></li>
         <li><a href="#honeypot">HoneyPot</a></li>
+        <li><a href="#glassdoor">Glassdoor</a></li>
         <li><a href="#indeed">Indeed</a></li>
+        <li><a href="#weworkremotely">WeWorkRemotely</a></li>
         <li><a href="#wellfound-formerly-angellist">Wellfound (Formerly AngelList)</a></li>
         <li><a href="#golangprojects">GolangProjects</a></li>
     </ul>
@@ -52,8 +54,8 @@ If you think this could be helpful, feel free to email me at m[at]mohammadi.com,
 
 ## Start Applying for Jobs
 
-### LinkedIn
-As you may know, LinkedIn is the main source for job opportunities, so start applying there. Here are some tips:
+### [LinkedIn](https://www.linkedin.com/jobs/)
+As you may know, [LinkedIn](https://www.linkedin.com/jobs/) is the main source for job opportunities, so start applying there. Here are some tips:
 
 - **Complete your profile.** Consider using LinkedIn Premium for AI-assisted headlines, personalized text, and deeper insights into the job market.
 - **Request recommendations** from former co-workers to strengthen your profile.
@@ -76,14 +78,21 @@ If you're after remote work, [RemoteOK](https://remoteok.com/) is a gem.
 
 ### [HoneyPot](https://www.honeypot.io/)
 
-HoneyPot is a reverse-apply platform, meaning you set up your profile, and companies come to you with job opportunities. The great part is that once your profile is ready, you don't have to do much else. We also leverage HoneyPot for its resources. One standout feature is the dedicated talent advisor who can set up mock interviews for you at no cost, so you can practice before the real thing—definitely a game-changer.
+[HoneyPot](https://www.honeypot.io/) is a reverse-apply platform, meaning you set up your profile, and companies come to you with job opportunities. The great part is that once your profile is ready, you don't have to do much else. We also leverage HoneyPot for its resources. One standout feature is the dedicated talent advisor who can set up mock interviews for you at no cost, so you can practice before the real thing—definitely a game-changer.
 
 They also have a [dev-community](https://cult.honeypot.io/) packed with in-depth reports, offering valuable insights into the job market if that’s something you're interested in.
 
 One thing to note: when creating your account, you'll be asked about the types of jobs you're after. If you say you're only looking for remote roles, your account might not get activated. A better strategy is to indicate that you're open to jobs and willing to relocate, but with a preference for remote work. This is actually realistic because if an amazing relocation offer comes your way, you might just take it.
 
+### [Glassdoor](https://www.glassdoor.com/Job/index.htm)
+[Glassdoor](https://www.glassdoor.com/Job/index.htm) is primarily known for its company reviews, giving you insight into what it's like to work at different places. But don't overlook their job section—it's a solid resource where you can search for and apply to jobs as well.
+
+
 ### [Indeed](https://indeed.com/)
 [Indeed](https://indeed.com/) is one of the largest job listing platforms out there, offering a vast range of opportunities across different industries.
+
+### [WeWorkRemotely](https://weworkremotely.com/)
+[WeWorkRemotely](https://weworkremotely.com/) is also another source for remote jobs.
 
 ### [Wellfound (Formerly AngelList)](https://wellfound.com/)
 [Wellfound](https://wellfound.com/) focuses on startup job opportunities, especially in North America. However, keep in mind that if you have more than a 2-hour time zone difference, your chances of landing an interview might decrease.
@@ -92,12 +101,5 @@ One thing to note: when creating your account, you'll be asked about the types o
 [GolangProjects](https://www.golangprojects.com/) is dedicated to Go developers, making it a solid resource for Go-related job opportunities.
 
 I'm always on the lookout for more domain and language-specific job platforms, so if you know of any, feel free to share them in the [discussions](https://github.com/mohammadi-com/JobNavigator/discussions) section.
-
-
-
-
-
-
-
 
 
