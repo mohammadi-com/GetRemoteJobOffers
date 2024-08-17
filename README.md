@@ -20,6 +20,8 @@ This guide is designed like a to-do list, so there's no need to read it all at o
         <li><a href="#weworkremotely">WeWorkRemotely</a></li>
         <li><a href="#wellfound-formerly-angellist">Wellfound (Formerly AngelList)</a></li>
         <li><a href="#golangprojects">GolangProjects</a></li>
+        <li><a href="#cold-outreach">Cold Outreach</a></li>
+        <li><a href="#referrals">Referrals</a></li>
     </ul>
 </li>
 </ol>
@@ -34,6 +36,7 @@ Before your resume reaches a real human, it’s often first skimmed by an Applic
 
 Notes:
 - Don’t rely on ChatGPT to write your entire resume. Instead, draft it yourself and use ChatGPT as a helper. A simple prompt like, “Rewrite and keep my tone,” can refine your text while preserving authenticity, eliminating grammar or dictation errors, and often enhancing the wording.
+- **Include relevant public profile** pages in your CV (like GitHub, StackOverflow, Kaggle, etc.). Only add them if they showcase your skills; empty profiles won't help and could even hurt your application. Make sure these links strengthen your application, not weaken it.
 - **Check for grammar and spelling mistakes** using [Grammarly.com](https://www.grammarly.com/). Writing correctly is crucial as it reflects your attention to detail.
 - **Ensure all links work** properly across different environments.
 - **Include the location for each job.** If you have remote work experience, label it as “remote.” This is a positive signal for remote-first companies, showing you’re experienced in remote team collaboration.
@@ -70,19 +73,22 @@ As you may know, [LinkedIn](https://www.linkedin.com/jobs/) is the main source f
 
 Absolutely, LinkedIn is a powerhouse for job hunting, but don't sleep on other platforms. They often have less competition, giving you a better shot at landing something great. Case in point: I found my London gig on [Cord.co](https://cord.co/).
 
+
 ### [Cord](https://cord.co/)
 [Cord](https://cord.co/) is more UK-centric with a smaller pool of listings. You can set up an account, but don't be surprised if your resume gets rejected and you're unable to message recruiters directly on the platform. No big deal though—just head to the company's website and apply directly!
+
 
 ### [RemoteOK](https://remoteok.com/)
 If you're after remote work, [RemoteOK](https://remoteok.com/) is a gem.
 
-### [HoneyPot](https://www.honeypot.io/)
 
+### [HoneyPot](https://www.honeypot.io/)
 [HoneyPot](https://www.honeypot.io/) is a reverse-apply platform, meaning you set up your profile, and companies come to you with job opportunities. The great part is that once your profile is ready, you don't have to do much else. We also leverage HoneyPot for its resources. One standout feature is the dedicated talent advisor who can set up mock interviews for you at no cost, so you can practice before the real thing—definitely a game-changer.
 
 They also have a [dev-community](https://cult.honeypot.io/) packed with in-depth reports, offering valuable insights into the job market if that’s something you're interested in.
 
 One thing to note: when creating your account, you'll be asked about the types of jobs you're after. If you say you're only looking for remote roles, your account might not get activated. A better strategy is to indicate that you're open to jobs and willing to relocate, but with a preference for remote work. This is actually realistic because if an amazing relocation offer comes your way, you might just take it.
+
 
 ### [Glassdoor](https://www.glassdoor.com/Job/index.htm)
 [Glassdoor](https://www.glassdoor.com/Job/index.htm) is primarily known for its company reviews, giving you insight into what it's like to work at different places. But don't overlook their job section—it's a solid resource where you can search for and apply to jobs as well.
@@ -91,11 +97,14 @@ One thing to note: when creating your account, you'll be asked about the types o
 ### [Indeed](https://indeed.com/)
 [Indeed](https://indeed.com/) is one of the largest job listing platforms out there, offering a vast range of opportunities across different industries.
 
+
 ### [WeWorkRemotely](https://weworkremotely.com/)
 [WeWorkRemotely](https://weworkremotely.com/) is also another source for remote jobs.
 
+
 ### [Wellfound (Formerly AngelList)](https://wellfound.com/)
 [Wellfound](https://wellfound.com/) focuses on startup job opportunities, especially in North America. However, keep in mind that if you have more than a 2-hour time zone difference, your chances of landing an interview might decrease.
+
 
 ### [GolangProjects](https://www.golangprojects.com/)
 [GolangProjects](https://www.golangprojects.com/) is dedicated to Go developers, making it a solid resource for Go-related job opportunities.
@@ -103,3 +112,16 @@ One thing to note: when creating your account, you'll be asked about the types o
 I'm always on the lookout for more domain and language-specific job platforms, so if you know of any, feel free to share them in the [discussions](https://github.com/mohammadi-com/JobNavigator/discussions) section.
 
 
+### Cold Outreach
+When you're job hunting, you might come across a position that you really love and are a great fit for. To stand out, consider searching for the company founders or hiring managers and finding their contact emails using [RocketReach](https://rocketreach.co/) or other tools.
+
+Then, take the time to write a compelling letter explaining why you’d be valuable to the company and highlight the skills that match the position. Attach your resume and send it directly to them.
+
+This method is time-consuming, so aim to do it for about 10 jobs per month. The extra effort can set you apart from other applicants and increase your chances of getting an interview.
+
+This approach has often led to interviews for me.
+
+### Referrals
+If you're going for a job and you know someone at the company, ask them to refer you. It could benefit your friend too, as companies often pay referral bonuses if you get hired.
+
+Plus, it helps you by often getting you straight to the interview stage. Your friend can also help you prep for the interviews.
