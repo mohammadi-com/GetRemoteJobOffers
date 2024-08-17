@@ -7,23 +7,35 @@ This guide is designed like a to-do list, so there's no need to read it all at o
 
 ## Steps
 <ol>
-<li><a href="#resume-prepration">Resume Prepration</a></li>
-<li><a href="#customized-cover-letter-generation">Customized Cover Letter Generation</a></li>
-<li><a href="#start-applying-for-jobs">Start Applying for Jobs
-    <ul>
-        <li><a href="#linkedin">LinkedIn</a></li>
-        <li><a href="#cord">Cord</a></li>
-        <li><a href="#remoteok">RemoteOK</a></li>
-        <li><a href="#honeypot">HoneyPot</a></li>
-        <li><a href="#glassdoor">Glassdoor</a></li>
-        <li><a href="#indeed">Indeed</a></li>
-        <li><a href="#weworkremotely">WeWorkRemotely</a></li>
-        <li><a href="#wellfound-formerly-angellist">Wellfound (Formerly AngelList)</a></li>
-        <li><a href="#golangprojects">GolangProjects</a></li>
-        <li><a href="#cold-outreach">Cold Outreach</a></li>
-        <li><a href="#referrals">Referrals</a></li>
-    </ul>
-</li>
+    <li><a href="#resume-prepration">Resume Prepration</a></li>
+    <li><a href="#customized-cover-letter-generation">Customized Cover Letter Generation</a></li>
+    <li><a href="#start-applying-for-jobs">Start Applying for Jobs</a>
+        <ul>
+            <li><a href="#linkedin">LinkedIn</a></li>
+            <li><a href="#cord">Cord</a></li>
+            <li><a href="#remoteok">RemoteOK</a></li>
+            <li><a href="#honeypot">HoneyPot</a></li>
+            <li><a href="#glassdoor">Glassdoor</a></li>
+            <li><a href="#indeed">Indeed</a></li>
+            <li><a href="#weworkremotely">WeWorkRemotely</a></li>
+            <li><a href="#wellfound-formerly-angellist">Wellfound (Formerly AngelList)</a></li>
+            <li><a href="#golangprojects">GolangProjects</a></li>
+            <li><a href="#cold-outreach">Cold Outreach</a></li>
+            <li><a href="#referrals">Referrals</a></li>
+        </ul>
+    </li>
+    <li><a href="#prep-for-interview">Prep for Interview</a>
+        <ul>
+            <li><a href="#show-dont-tell">Show, Don’t Tell</a></li>
+            <li><a href="#improve-your-english">Improve Your English</a></li>
+            <li><a href="#boost-your-confidence">Boost Your Confidence</a></li>
+            <li><a href="#practice-with-mock-interviews">Practice with Mock Interviews</a></li>
+            <li><a href="#look-presentable">Look Presentable</a></li>
+            <li><a href="#be-punctual">Be Punctual</a></li>
+            <li><a href="#research-the-job-and-company">Research the Job and Company</a></li>
+        </ul>
+    </li>
+
 </ol>
 
 
@@ -125,3 +137,35 @@ This approach has often led to interviews for me.
 If you're going for a job and you know someone at the company, ask them to refer you. It could benefit your friend too, as companies often pay referral bonuses if you get hired.
 
 Plus, it helps you by often getting you straight to the interview stage. Your friend can also help you prep for the interviews.
+
+
+## Prep for Interview
+
+First off, congrats on landing an interview! This means you've nailed the earlier steps. The goal of your CV, cover letter, and everything else was to get you here. From now until you get that job offer, those tools are no longer in play—it's all on you.
+
+According to interviewer research, 71% of candidates get rejected for non-technical reasons, even though most think it’s about their technical skills. Check out the reasons below and make sure you avoid these common mistakes.
+
+![Rejection Chart](./Images/RejectionChart.png)
+
+
+### Show, Don’t Tell
+A lot of people, when told to "show" a characteristic in an interview, end up just saying, "I am [that characteristic]." This approach is pretty ineffective. For example, if you want to prove you're a team player, don't just say it—bring up examples of times you've worked well in a team. Let your actions speak for themselves.
+
+### Improve Your English
+If English isn’t your first language, consider joining free discussion courses to improve. I've heard from friends that [Oteacher](https://oteacher.org/) is a great resource. If you know of any other good ones, feel free to share. Expanding your vocabulary and learning to communicate your ideas clearly and professionally, with an understandable tone, accent, and pace, is crucial. Improving your English is an investment that pays off beyond just the job search—it’s a valuable asset for your life and career. Make it a habit to spend 3-4 hours a day working on this skill.
+
+### Boost Your Confidence
+Confidence builds over time. Remember, the interviewer is just another person, and they’re there to have a conversation with you. This is your chance to create a collaborative and friendly vibe. A great way to build confidence is by doing mock interviews.
+
+### Practice with Mock Interviews
+Practice makes perfect. Just like you’d do mock tests before a driving test, mock interviews are essential here too. Get a friend, mentor, or another resource to help you out. Some websites can also assist with this:
+- HoneyPot: As mentioned earlier, you can set up free mock interviews with your talent advisor.
+
+### Look Presentable
+First impressions count. Make sure your background is clean and free of distractions. Comb your hair, wear appropriate clothing—not too formal, but not too casual either. Also, position your camera at eye level.
+
+### Be Punctual
+This might seem obvious, but a lot of candidates still miss interviews. Ensure you have a stable internet connection and log into the meeting room at least 10 minutes before the start time.
+
+### Research the Job and Company
+Surprise the interviewer with your knowledge of the company. This shows how much you care, and even if you lack some skills, your passion might give you an edge. Thoroughly read their website, understand their competition, their strengths, the business sector, future industry trends, how your role can help the company grow, and so on.
