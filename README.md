@@ -27,6 +27,7 @@ This guide is designed like a to-do list, so there's no need to read it all at o
     <li><a href="#prep-for-interview">Prep for Interview</a>
         <ul>
             <li><a href="#show-dont-tell">Show, Don’t Tell</a></li>
+            <li><a href="#star-method-action-verbs">STAR Method (Action Verbs)</a></li>
             <li><a href="#improve-your-english">Improve Your English</a></li>
             <li><a href="#boost-your-confidence">Boost Your Confidence</a></li>
             <li><a href="#practice-with-mock-interviews">Practice with Mock Interviews</a></li>
@@ -35,7 +36,13 @@ This guide is designed like a to-do list, so there's no need to read it all at o
             <li><a href="#research-the-job-and-company">Research the Job and Company</a></li>
         </ul>
     </li>
-
+    <li><a href="#interview-stages">Interview Stages</a>
+        <ul>
+            <li><a href="#hr-interview">HR Interview</a></li>
+            <li><a href="#technical-interview">Technical Interview</a></li>
+            <li><a href="#cultural-fit-interview">Cultural Fit Interview</a></li>
+        </ul>
+    </li>
 </ol>
 
 
@@ -151,6 +158,31 @@ According to interviewer research, 71% of candidates get rejected for non-techni
 ### Show, Don’t Tell
 A lot of people, when told to "show" a characteristic in an interview, end up just saying, "I am [that characteristic]." This approach is pretty ineffective. For example, if you want to prove you're a team player, don't just say it—bring up examples of times you've worked well in a team. Let your actions speak for themselves.
 
+### STAR Method (Action Verbs)
+STAR stands for Situation, Task, Action, and Result. This method help you to convey your message in a structured way that helps the interviewer to understand your accomplishments better. It is like saying bullet points, so you can use this method in CV, coverletter, and interview.
+
+An example would be like:
+
+**Question**: "Describe a time when you had to optimize a poorly performing piece of code or system."
+
+**Situation**
+
+As a backend developer at an e-commerce company, I noticed that our product search functionality was significantly slowing down during peak hours.
+
+**Task**
+
+My task was to identify the performance issues and optimize the search functionality to improve response times.
+
+**Action**
+
+I analyzed the code and discovered that complex database queries were causing the slowdown. I implemented a denormalized search index using Elasticsearch, rewrote the search algorithm to utilize this index, and added caching for frequently searched terms. I also conducted thorough testing to ensure accuracy.
+
+**Result**
+These changes reduced search response times by **90%**, allowing the system to handle five times more concurrent requests. User satisfaction scores for the search feature increased by **35%**, and overall system stability improved during peak hours.
+
+This experience taught me the importance of performance optimization and effective use of search technologies in software development.
+
+
 ### Improve Your English
 If English isn’t your first language, consider joining free discussion courses to improve. I've heard from friends that [Oteacher](https://oteacher.org/) is a great resource. If you know of any other good ones, feel free to share. Expanding your vocabulary and learning to communicate your ideas clearly and professionally, with an understandable tone, accent, and pace, is crucial. Improving your English is an investment that pays off beyond just the job search—it’s a valuable asset for your life and career. Make it a habit to spend 3-4 hours a day working on this skill.
 
@@ -169,3 +201,29 @@ This might seem obvious, but a lot of candidates still miss interviews. Ensure y
 
 ### Research the Job and Company
 Surprise the interviewer with your knowledge of the company. This shows how much you care, and even if you lack some skills, your passion might give you an edge. Thoroughly read their website, understand their competition, their strengths, the business sector, future industry trends, how your role can help the company grow, and so on.
+
+
+## Interview Stages
+Interviews are generally consists of 3 main interviews: 1- HR interview, 2- Technical interview, 3- Cultural fit interview.
+Each company may have their specific stages that can be more or less, but the core of it is the same.
+We are going to ace them one by one.
+
+### HR Interview
+One of the typical questions is "Tell Me About Yourself" or it's variations. [This Youtube](https://www.youtube.com/watch?v=MmFuWmzeiDs) video explains very well how to prepare for it.
+
+[BigInterview Youtube channel](https://www.youtube.com/@Biginterview) is one of the richest resources you can use to get prepared for interviews with tons of sample answers. You should be able to find a relavant video for any questions that you might have in your mind.
+
+
+### Technical Interview
+Technical interviews are consisted of two main categories: 1- Data structures and algorithms 2- System design.
+
+For Data structures and algorithms are suggest you to practice with [LeetCode](https://leetcode.com/). If you need a book to read and create the foundation, I highly suggest [Data structures and basics of algorithms By Dr. Ghodsi](https://fatemi.ir/book/%D8%AF%D8%A7%D8%AF%D9%87%E2%80%8C%D8%B3%D8%A7%D8%AE%D8%AA%D8%A7%D8%B1%D9%87%D8%A7-%D9%88-%D9%85%D8%A8%D8%A7%D9%86%DB%8C-%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85%E2%80%8C%D9%87%D8%A7/) for persian candidates.
+
+For System design I don't have a great
+
+### Cultural Fit Interview
+In this interview a senior member of team, even could be founder/CEO will talk to you to check that if you are a great fit for the company. Companies may compromise on your technical skills, but not on your personality traits. You must think good before answering questions.
+
+Usually you should be able to demonstrate that you have these traits: adaptability, enthusiasm, positive attitude, willingness to learn, flexibility, integrity, teamwork, and innovation.
+
+You can think of another way, that since companies are searching for these qualities it is a sign of successful people. So in my idea, it's a prudent approach to build these traits in yourself if lack any of them, regardless of job search.
