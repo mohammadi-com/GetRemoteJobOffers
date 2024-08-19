@@ -204,26 +204,27 @@ Surprise the interviewer with your knowledge of the company. This shows how much
 
 
 ## Interview Stages
-Interviews are generally consists of 3 main interviews: 1- HR interview, 2- Technical interview, 3- Cultural fit interview.
-Each company may have their specific stages that can be more or less, but the core of it is the same.
-We are going to ace them one by one.
+
+Interviews typically consist of three main stages: 1) HR Interview, 2) Technical Interview, and 3) Cultural Fit Interview. While each company may have its own specific steps, these core stages are usually the same. Let’s break down how to ace each one.
 
 ### HR Interview
-One of the typical questions is "Tell Me About Yourself" or it's variations. [This Youtube](https://www.youtube.com/watch?v=MmFuWmzeiDs) video explains very well how to prepare for it.
 
-[BigInterview Youtube channel](https://www.youtube.com/@Biginterview) is one of the richest resources you can use to get prepared for interviews with tons of sample answers. You should be able to find a relavant video for any questions that you might have in your mind.
+One of the most common questions is "Tell me about yourself," or some variation of it. This [YouTube video](https://www.youtube.com/watch?v=MmFuWmzeiDs) does a great job explaining how to prepare for it.
 
+For more in-depth prep, the [BigInterview YouTube channel](https://www.youtube.com/@Biginterview) is packed with resources and sample answers for a wide range of interview questions. You’ll likely find a relevant video for any question you might be wondering about.
 
 ### Technical Interview
-Technical interviews are consisted of two main categories: 1- Data structures and algorithms 2- System design.
 
-For Data structures and algorithms are suggest you to practice with [LeetCode](https://leetcode.com/). If you need a book to read and create the foundation, I highly suggest [Data structures and basics of algorithms By Dr. Ghodsi](https://fatemi.ir/book/%D8%AF%D8%A7%D8%AF%D9%87%E2%80%8C%D8%B3%D8%A7%D8%AE%D8%AA%D8%A7%D8%B1%D9%87%D8%A7-%D9%88-%D9%85%D8%A8%D8%A7%D9%86%DB%8C-%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85%E2%80%8C%D9%87%D8%A7/) for persian candidates.
+Technical interviews usually focus on two main areas: 1) Data Structures and Algorithms, and 2) System Design.
 
-For System design I don't have a great
+For Data Structures and Algorithms, I recommend practicing with [LeetCode](https://leetcode.com/). If you're looking for a solid book to build your foundation, I highly suggest [Data Structures and Basics of Algorithms by Dr. Ghodsi](https://fatemi.ir/book/%D8%AF%D8%A7%D8%AF%D9%87%E2%80%8C%D8%B3%D8%A7%D8%AE%D8%AA%D8%A7%D8%B1%D9%87%D8%A7-%D9%88-%D9%85%D8%A8%D8%A7%D9%86%DB%8C-%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85%E2%80%8C%D9%87%D8%A7/) for Persian speakers.
+
+For System Design, I don’t have a specific resource to recommend, but you can find numerous online courses and materials that cover the basics.
 
 ### Cultural Fit Interview
-In this interview a senior member of team, even could be founder/CEO will talk to you to check that if you are a great fit for the company. Companies may compromise on your technical skills, but not on your personality traits. You must think good before answering questions.
 
-Usually you should be able to demonstrate that you have these traits: adaptability, enthusiasm, positive attitude, willingness to learn, flexibility, integrity, teamwork, and innovation.
+This interview is typically conducted by a senior team member, and it could even be the founder or CEO. The goal here is to determine if you're a good fit for the company culture. While companies might be flexible on technical skills, they’re usually strict about personality traits. Think carefully before answering questions in this interview.
 
-You can think of another way, that since companies are searching for these qualities it is a sign of successful people. So in my idea, it's a prudent approach to build these traits in yourself if lack any of them, regardless of job search.
+You'll need to demonstrate traits like adaptability, enthusiasm, a positive attitude, willingness to learn, flexibility, integrity, teamwork, and innovation.
+
+Think of it this way: if companies are looking for these qualities, it's a sign that they’re essential for success. So, it’s a smart move to develop these traits in yourself, regardless of your job search.
