@@ -45,21 +45,28 @@ This guide is designed like a to-do list, so there's no need to read it all at o
     </li>
 </ol>
 
+## Resume Preparation
+If you know how to use LaTeX (if not, it’s a good skill to learn 😁), you can find lots of [free resume templates here](https://www.latextemplates.com/cat/curricula-vitae). Pick a CV style you like. I recommend a one-column layout.
 
-## Resume Prepration
-I was a fan of creating my resume using my own LaTeX template, but I realized that although my resume looked professional and polished, it wasn't easily readable by machines—the very machines we humans created!
+When you write your CV and update your profiles, think about the job you want. It helps to keep your focus narrow. Look at job ads that interest you, notice the skills and words they use, and make sure your CV shows that you have those skills.
 
-Before your resume reaches a real human, it’s often first skimmed by an Application Tracking System (ATS). Therefore, it's crucial to ensure that your resume's text is readable and extractable by these systems. While I love the authenticity of a handcrafted resume, it's in your best interest to use resume builders to create your resume. Most ATS are optimized for these resume formats and can read them easily. This increases your chances of being noticed and, hopefully, invited to an interview.
+Here's a simple way to create your CV:
+### Root CV
+First, write a detailed CV. Don’t worry about making it short; include everything. For each job you've had, list at least ten things you did. This full version will be your base for making shorter ones tailored to each job.
+### Derivative CV
+For each job you apply for, pick the top 3-4 most relevant points from your detailed CV and hide the rest (easy to do in LaTeX). This way, you make a CV that highlights what's most important for that job. You can use [JobScan](https://www.jobscan.co/) to check how well your CV matches the job description.
 
-[Resume.com](https://www.resume.com/) is a great, free, easy to use tool to create resume.
+### Optimize for ATS
+Before a person sees your resume, a computer system called an ATS might check it first. Make sure your resume is easy for this system to read. This can help you get noticed and hopefully get an interview. You can upload your resume to [ResumeWorded](https://resumeworded.com/) to get tips on making it better. Even if you don’t agree with all the advice, try to use the feedback to improve your resume.
 
 Notes:
 - Don’t rely on ChatGPT to write your entire resume. Instead, draft it yourself and use ChatGPT as a helper. A simple prompt like, “Rewrite and keep my tone,” can refine your text while preserving authenticity, eliminating grammar or dictation errors, and often enhancing the wording.
 - **Include relevant public profile** pages in your CV (like GitHub, StackOverflow, Kaggle, etc.). Only add them if they showcase your skills; empty profiles won't help and could even hurt your application. Make sure these links strengthen your application, not weaken it.
+If your contributions on Github is more on private repositories, you can show your contributions on your profile withou exposing the code. Read the guide for [Showing your private contributions and achievements on your Github profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/showing-your-private-contributions-and-achievements-on-your-profile).
 - **Check for grammar and spelling mistakes** using [Grammarly.com](https://www.grammarly.com/). Writing correctly is crucial as it reflects your attention to detail.
 - **Ensure all links work** properly across different environments.
 - **Include the location for each job.** If you have remote work experience, label it as “remote.” This is a positive signal for remote-first companies, showing you’re experienced in remote team collaboration.
-- **Upload your resume to [ResumeWorded](https://resumeworded.com/)** and aim for a score of 80 or higher. The tool provides valuable feedback to improve your resume, and you can also explore their public resources for additional tips. Iterate until you’re satisfied before moving on.
+- Avoid labeling yourself as a **Full Stack Engineer/Developer** unless you have at least 8 years of experience and are truly proficient in both front-end and back-end development. I prefer using the term **Software Engineer**. In your resume, you can list the technologies you've worked with, specifying whether they are front-end or back-end, in the description section.
 
 
 
@@ -132,7 +139,7 @@ I'm always on the lookout for more domain and language-specific job platforms, s
 
 
 ### Cold Outreach
-When you're job hunting, you might come across a position that you really love and are a great fit for. To stand out, consider searching for the company founders or hiring managers and finding their contact emails using [RocketReach](https://rocketreach.co/) or other tools.
+When you're job hunting, you might come across a position that you really love and are a great fit for. To stand out, consider searching for the company founders or hiring managers and finding their contact emails using [RocketReach](https://rocketreach.co/), use Linkedin premium to message directly, or other tools.
 
 Then, take the time to write a compelling letter explaining why you’d be valuable to the company and highlight the skills that match the position. Attach your resume and send it directly to them.
 
@@ -178,6 +185,7 @@ My task was to identify the performance issues and optimize the search functiona
 I analyzed the code and discovered that complex database queries were causing the slowdown. I implemented a denormalized search index using Elasticsearch, rewrote the search algorithm to utilize this index, and added caching for frequently searched terms. I also conducted thorough testing to ensure accuracy.
 
 **Result**
+
 These changes reduced search response times by **90%**, allowing the system to handle five times more concurrent requests. User satisfaction scores for the search feature increased by **35%**, and overall system stability improved during peak hours.
 
 This experience taught me the importance of performance optimization and effective use of search technologies in software development.
@@ -217,7 +225,7 @@ For more in-depth prep, the [BigInterview YouTube channel](https://www.youtube.c
 
 Technical interviews usually focus on two main areas: 1) Data Structures and Algorithms, and 2) System Design.
 
-For Data Structures and Algorithms, I recommend practicing with [LeetCode](https://leetcode.com/). If you're looking for a solid book to build your foundation, I highly suggest [Data Structures and Basics of Algorithms by Dr. Ghodsi](https://fatemi.ir/book/%D8%AF%D8%A7%D8%AF%D9%87%E2%80%8C%D8%B3%D8%A7%D8%AE%D8%AA%D8%A7%D8%B1%D9%87%D8%A7-%D9%88-%D9%85%D8%A8%D8%A7%D9%86%DB%8C-%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85%E2%80%8C%D9%87%D8%A7/) for Persian speakers.
+For Data Structures and Algorithms, I recommend practicing with [LeetCode](https://leetcode.com/). If you're looking for a solid book to build your foundation, I highly suggest [Data Structures and Basics of Algorithms by Dr. Ghodsi](https://fatemi.ir/book/%D8%AF%D8%A7%D8%AF%D9%87%E2%80%8C%D8%B3%D8%A7%D8%AE%D8%AA%D8%A7%D8%B1%D9%87%D8%A7-%D9%88-%D9%85%D8%A8%D8%A7%D9%86%DB%8C-%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85%E2%80%8C%D9%87%D8%A7/) for Persians.
 
 For System Design, I don’t have a specific resource to recommend, but you can find numerous online courses and materials that cover the basics.
 
