@@ -20,7 +20,7 @@ This guide is designed like a to-do list, so there's no need to read it all at o
             <li><a href="#weworkremotely">WeWorkRemotely</a></li>
             <li><a href="#wellfound-formerly-angellist">Wellfound (Formerly AngelList)</a></li>
             <li><a href="#golangprojects">GolangProjects</a></li>
-            <li><a href="#cold-outreach">Cold Outreach</a></li>
+            <li><a href="#cold-email">Cold Email</a></li>
             <li><a href="#referrals">Referrals</a></li>
         </ul>
     </li>
@@ -46,6 +46,8 @@ This guide is designed like a to-do list, so there's no need to read it all at o
 </ol>
 
 ## Resume Preparation
+First off, it's crucial to read job descriptions carefully and tailor your CV and cover letter to match them. It's completely normal to spend about 30-60 minutes on each job application. Preparing a proper job application takes time. That’s why I often say that applying for jobs is a full-time job in itself! Taking the time to customize your application can significantly increase your chances of getting noticed and ultimately landing an interview.
+
 If you know how to use LaTeX (if not, it’s a good skill to learn 😁), you can find lots of [free resume templates here](https://www.latextemplates.com/cat/curricula-vitae). Pick a CV style you like. I recommend a one-column layout.
 
 When you write your CV and update your profiles, think about the job you want. It helps to keep your focus narrow. Look at job ads that interest you, notice the skills and words they use, and make sure your CV shows that you have those skills.
@@ -61,6 +63,7 @@ Before a person sees your resume, a computer system called an ATS might check it
 
 Notes:
 - Don’t rely on ChatGPT to write your entire resume. Instead, draft it yourself and use ChatGPT as a helper. A simple prompt like, “Rewrite and keep my tone,” can refine your text while preserving authenticity, eliminating grammar or dictation errors, and often enhancing the wording.
+- Use **Job Keywords** in your resume.
 - **Include relevant public profile** pages in your CV (like GitHub, StackOverflow, Kaggle, etc.). Only add them if they showcase your skills; empty profiles won't help and could even hurt your application. Make sure these links strengthen your application, not weaken it.
 If your contributions on Github is more on private repositories, you can show your contributions on your profile withou exposing the code. Read the guide for [Showing your private contributions and achievements on your Github profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/showing-your-private-contributions-and-achievements-on-your-profile).
 - **Check for grammar and spelling mistakes** using [Grammarly.com](https://www.grammarly.com/). Writing correctly is crucial as it reflects your attention to detail.
@@ -82,6 +85,7 @@ I've developed a tool that makes creating customized cover letters and tracking 
 If you think this could be helpful, feel free to email me at m[at]mohammadi.com, and I'll be happy to share a copy with you.
 
 ## Start Applying for Jobs
+There’s no magic platform or trick that guarantees job interviews. If your skills and experiences match a job posting, you’re likely to get an invitation for an interview. Below, I’ll introduce some of the main job listing platforms and offer some tips on how to effectively use them:
 
 ### [LinkedIn](https://www.linkedin.com/jobs/)
 As you may know, [LinkedIn](https://www.linkedin.com/jobs/) is the main source for job opportunities, so start applying there. Here are some tips:
@@ -138,7 +142,7 @@ One thing to note: when creating your account, you'll be asked about the types o
 I'm always on the lookout for more domain and language-specific job platforms, so if you know of any, feel free to share them in the [discussions](https://github.com/mohammadi-com/JobNavigator/discussions) section.
 
 
-### Cold Outreach
+### Cold Email
 When you're job hunting, you might come across a position that you really love and are a great fit for. To stand out, consider searching for the company founders or hiring managers and finding their contact emails using [RocketReach](https://rocketreach.co/), use Linkedin premium to message directly, or other tools.
 
 Then, take the time to write a compelling letter explaining why you’d be valuable to the company and highlight the skills that match the position. Attach your resume and send it directly to them.
@@ -227,7 +231,7 @@ Technical interviews usually focus on two main areas: 1) Data Structures and Alg
 
 For Data Structures and Algorithms, I recommend practicing with [LeetCode](https://leetcode.com/). If you're looking for a solid book to build your foundation, I highly suggest [Data Structures and Basics of Algorithms by Dr. Ghodsi](https://fatemi.ir/book/%D8%AF%D8%A7%D8%AF%D9%87%E2%80%8C%D8%B3%D8%A7%D8%AE%D8%AA%D8%A7%D8%B1%D9%87%D8%A7-%D9%88-%D9%85%D8%A8%D8%A7%D9%86%DB%8C-%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85%E2%80%8C%D9%87%D8%A7/) for Persians.
 
-For System Design, I don’t have a specific resource to recommend, but you can find numerous online courses and materials that cover the basics.
+For System Design, I recommend checking out [The System Design Primer](https://github.com/donnemartin/system-design-primer) by Donne Martin, a Tech Lead at Meta. This resource covers all the key aspects of system design with plenty of examples. Plus, it's available in multiple languages. A great tip is to contribute to this repo. It’s a great way to enhance your GitHub profile, get involved with the open-source community, and learn more about projects.
 
 ### Cultural Fit Interview
 
