@@ -1,7 +1,7 @@
 # GetRemoteOffers - ASAP
 I created this guide out of my passion for the developer community. A star 🌟 on this repo would be greatly appreciated 🤗, as it motivates me to dedicate more time to it.
 
-If you have any comments, ideas, or appreciation, please use the [discussions](https://github.com/mohammadi-com/JobNavigator/discussions) tab. Don't hesitate to **clone**, **fork**, and submit **pull requests**!
+If you have any comments, ideas, or appreciation, please use the [discussions](https://github.com/mohammadi-com/JobNavigator/discussions) tab. This is a continually updated, open source project. Don't hesitate to **clone**, **fork**, and submit **pull requests**!
 
 This guide is designed like a to-do list, so there's no need to read it all at once. In each step, I purposefully suggest only one tool to keep you from wondering what to use. Just follow each step, slaying one dragon at a time, until you land that job offer.
 
@@ -80,7 +80,7 @@ Keep your cover letter simple, concise, and straight to the point. Put yourself 
 
 I've noticed some people skip the cover letter entirely, and that's a big mistake. Leaving it blank sends the message that you're not really serious about the opportunity.
 
-I've developed a tool that makes creating customized cover letters and tracking job applications easier—all in one place: https://docs.google.com/spreadsheets/d/1JLJsuzzWHczKW7iCFxVbFBNklphQIl29-j2WxLb1geQ/edit?usp=sharing
+I've developed a tool that makes creating customized cover letters and tracking job applications easier—all in one place: https://docs.google.com/spreadsheets/d/1JLJsuzzWHczKW7iCFxVbFBNklphQIl29-j2WxLb1geQ/edit
 
 If you think this could be helpful, feel free to email me at m[at]mohammadi.com, and I'll be happy to share a copy with you.
 
@@ -199,7 +199,15 @@ This experience taught me the importance of performance optimization and effecti
 If English isn’t your first language, consider joining free discussion courses to improve. I've heard from friends that [Oteacher](https://oteacher.org/) is a great resource. If you know of any other good ones, feel free to share. Expanding your vocabulary and learning to communicate your ideas clearly and professionally, with an understandable tone, accent, and pace, is crucial. Improving your English is an investment that pays off beyond just the job search—it’s a valuable asset for your life and career. Make it a habit to spend 3-4 hours a day working on this skill.
 
 ### Boost Your Confidence
-Confidence builds over time. Remember, the interviewer is just another person, and they’re there to have a conversation with you. This is your chance to create a collaborative and friendly vibe. A great way to build confidence is by doing mock interviews.
+Confidence builds over time. Remember, the interviewer is just another person, and they’re there to have a conversation with you. This is your chance to create a collaborative and friendly vibe.
+
+Our mind sends stress signals when it encounters unknown situation, like an interview with new recruiter. You can prepare your mind and build confidence by **simulating the interview** for yourself.
+
+Make a list of questions you think the interviewer will ask, and write down your answers for each one. You can get a sense of the questions each company ask by checking their Glassdoor profile.
+
+Dress as if you're actually going to the interview, set up your camera, clean up your background, and get everything ready as if it's the real deal. Then, record yourself answering the questions you prepared.
+
+Watch the video, see where you can improve, and keep practicing until you feel confident and ready for the interview.
 
 ### Practice with Mock Interviews
 Practice makes perfect. Just like you’d do mock tests before a driving test, mock interviews are essential here too. Get a friend, mentor, or another resource to help you out. Some websites can also assist with this:
