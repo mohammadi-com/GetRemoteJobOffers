@@ -34,6 +34,8 @@ This guide is designed like a to-do list, so there's no need to read it all at o
             <li><a href="#look-presentable">Look Presentable</a></li>
             <li><a href="#be-punctual">Be Punctual</a></li>
             <li><a href="#research-the-job-and-company">Research the Job and Company</a></li>
+            <li><a href="#flash-a-smile">Flash a Smile</a></li>
+            <li><a href="#send-a-follow-up-email">Send a Follow-Up Email</a></li>
         </ul>
     </li>
     <li><a href="#interview-stages">Interview Stages</a>
@@ -41,6 +43,7 @@ This guide is designed like a to-do list, so there's no need to read it all at o
             <li><a href="#hr-interview">HR Interview</a></li>
             <li><a href="#technical-interview">Technical Interview</a></li>
             <li><a href="#cultural-fit-interview">Cultural Fit Interview</a></li>
+            <li><a href="#interview-postmortem"> Interview Postmortem</a></li>
         </ul>
     </li>
 </ol>
@@ -70,6 +73,7 @@ If your contributions on Github is more on private repositories, you can show yo
 - **Ensure all links work** properly across different environments.
 - **Include the location for each job.** If you have remote work experience, label it as “remote.” This is a positive signal for remote-first companies, showing you’re experienced in remote team collaboration.
 - Avoid labeling yourself as a **Full Stack Engineer/Developer** unless you have at least 8 years of experience and are truly proficient in both front-end and back-end development. I prefer using the term **Software Engineer**. In your resume, you can list the technologies you've worked with, specifying whether they are front-end or back-end, in the description section.
+- **Remove the languages section** unless you know a language that would be beneficial for the employer. Companies assume you know English, and proficiency in your native language isn't usually relevant to them.
 
 
 
@@ -91,6 +95,7 @@ There’s no magic platform or trick that guarantees job interviews. If your ski
 As you may know, [LinkedIn](https://www.linkedin.com/jobs/) is the main source for job opportunities, so start applying there. Here are some tips:
 
 - **Complete your profile.** Consider using LinkedIn Premium for AI-assisted headlines, personalized text, and deeper insights into the job market.
+- Turn on **Open to Work**
 - **Request recommendations** from former co-workers to strengthen your profile.
 - **Use a friendly, not overly formal profile picture.** A close-up of your face is ideal—skip the full-length shot—and make sure it’s visible to others.
 - **Engage with content** related to your field and publish your own to increase your visibility.
@@ -102,7 +107,6 @@ As you may know, [LinkedIn](https://www.linkedin.com/jobs/) is the main source f
 ![RemoteFilter](./Images/RemoteFilter.png)
 
 Absolutely, LinkedIn is a powerhouse for job hunting, but don't sleep on other platforms. They often have less competition, giving you a better shot at landing something great. Case in point: I found my London gig on [Cord.co](https://cord.co/).
-
 
 ### [Cord](https://cord.co/)
 [Cord](https://cord.co/) is more UK-centric with a smaller pool of listings. You can set up an account, but don't be surprised if your resume gets rejected and you're unable to message recruiters directly on the platform. No big deal though—just head to the company's website and apply directly!
@@ -211,16 +215,26 @@ Watch the video, see where you can improve, and keep practicing until you feel c
 
 ### Practice with Mock Interviews
 Practice makes perfect. Just like you’d do mock tests before a driving test, mock interviews are essential here too. Get a friend, mentor, or another resource to help you out. Some websites can also assist with this:
-- HoneyPot: As mentioned earlier, you can set up free mock interviews with your talent advisor.
+- [Pramp](https://www.pramp.com/): This free tool pairs you up with another peer for mock interviews where you take turns interviewing each other. It's great for practicing all types of interviews.
+
+- [LeetCode's Mock Assessment](https://leetcode.com/assessment/): This feature provides you with a random question for a live coding interview simulation. Perfect for getting a real-time coding interview experience.
+
+- [HoneyPot](https://www.honeypot.io/): As mentioned earlier, you can set up free mock interviews with your talent advisor.
 
 ### Look Presentable
-First impressions count. Make sure your background is clean and free of distractions. Comb your hair, wear appropriate clothing—not too formal, but not too casual either. Also, position your camera at eye level.
+First impressions count. Make sure your background is clean and free of distractions. Comb your hair, wear appropriate clothing—not too formal, but not too casual either. Also, position your camera at eye level. When the camera is below you, makes a scray image of you.
 
 ### Be Punctual
 This might seem obvious, but a lot of candidates still miss interviews. Ensure you have a stable internet connection and log into the meeting room at least 10 minutes before the start time.
 
 ### Research the Job and Company
 Surprise the interviewer with your knowledge of the company. This shows how much you care, and even if you lack some skills, your passion might give you an edge. Thoroughly read their website, understand their competition, their strengths, the business sector, future industry trends, how your role can help the company grow, and so on.
+
+### Flash a Smile
+Keep a friendly smile on your face during the interview. Sit up straight and make sure to maintain eye contact.
+
+### Send a Follow-Up Email
+After each interview, shoot the recruiter a thank-you email to express your appreciation for their time and consideration.
 
 
 ## Interview Stages
@@ -230,6 +244,18 @@ Interviews typically consist of three main stages: 1) HR Interview, 2) Technical
 ### HR Interview
 
 One of the most common questions is "Tell me about yourself," or some variation of it. This [YouTube video](https://www.youtube.com/watch?v=MmFuWmzeiDs) does a great job explaining how to prepare for it.
+
+List of Top 10 Interview Questions based on [Indeed](https://www.indeed.com/career-advice/interviewing/top-20-interview-questions):
+- Tell me about yourself.
+- Why are you interested in our company?
+- Why are you interested in this position?
+- What are your strengths?
+- What are your weaknesses?
+- Why did you leave your last job?
+- How do you prioritize your work?
+- Describe how you deal with conflict in the workplace.
+- What’s your preferred work environment/leadership style?
+- Why should we hire you over other qualified candidates?
 
 For more in-depth prep, the [BigInterview YouTube channel](https://www.youtube.com/@Biginterview) is packed with resources and sample answers for a wide range of interview questions. You’ll likely find a relevant video for any question you might be wondering about.
 
@@ -248,3 +274,10 @@ This interview is typically conducted by a senior team member, and it could even
 You'll need to demonstrate traits like adaptability, enthusiasm, a positive attitude, willingness to learn, flexibility, integrity, teamwork, and innovation.
 
 Think of it this way: if companies are looking for these qualities, it's a sign that they’re essential for success. So, it’s a smart move to develop these traits in yourself, regardless of your job search.
+
+### Interview Postmortem
+This goes for every interview. Right after you're done, write down a list of areas where you felt you could've done better. Use that list to sharpen your skills before the next interview.
+
+Wish you all the best in your job search
+
+Mohammad
