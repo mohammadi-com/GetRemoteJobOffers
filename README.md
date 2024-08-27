@@ -258,6 +258,7 @@ List of Top 10 Interview Questions based on [Indeed](https://www.indeed.com/care
 - Why should we hire you over other qualified candidates?
 
 For more in-depth prep, the [BigInterview YouTube channel](https://www.youtube.com/@Biginterview) is packed with resources and sample answers for a wide range of interview questions. You’ll likely find a relevant video for any question you might be wondering about.
+
 #### Competitor Test
 
 When preparing your answers for an interview, it's crucial to tailor them specifically to the company you're applying to. To ensure your responses are truly targeted and not too general, you can use the Competitor Test. Here's how it works:
