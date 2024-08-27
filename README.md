@@ -258,6 +258,32 @@ List of Top 10 Interview Questions based on [Indeed](https://www.indeed.com/care
 - Why should we hire you over other qualified candidates?
 
 For more in-depth prep, the [BigInterview YouTube channel](https://www.youtube.com/@Biginterview) is packed with resources and sample answers for a wide range of interview questions. You’ll likely find a relevant video for any question you might be wondering about.
+#### Competitor Test
+
+When preparing your answers for an interview, it's crucial to tailor them specifically to the company you're applying to. To ensure your responses are truly targeted and not too general, you can use the Competitor Test. Here's how it works:
+
+1. **Craft Your Answer:** Write your response as you normally would for the company you're interviewing with.
+
+2. **Replace the Company Name:** Swap out the company's name with one of its main competitors.
+
+3. **Evaluate the Result:** If the answer still makes sense for the competitor, then your response is too general and needs to be more specific. On the other hand, if the answer no longer makes sense or is clearly not applicable to the competitor, then you know your response is well-tailored to the company.
+
+##### Examples:
+
+**Bad Response Example:**
+
+- **Original Answer:** "Google can increase its revenue by developing an analytics dashboard that provides insights into upcoming monthly revenues."
+- **Competitor Test (Replace with Yahoo):** "Yahoo can increase its revenue by developing an analytics dashboard that provides insights into upcoming monthly revenues."
+- **Result:** This still makes sense for Yahoo, meaning the original answer is too general and could apply to any company.
+
+**Good Response Example:**
+
+- **Original Answer:** "Since Google’s primary revenue comes from bidding on search keywords, implementing a system where users make blind bids but pay the second-highest bid can significantly boost Google’s revenue."
+- **Competitor Test (Replace with Yahoo):** "Since Yahoo’s primary revenue comes from bidding on search keywords..." 
+- **Result:** This doesn't make sense for Yahoo because their revenue model differs, indicating that the original answer is specifically tailored to Google.
+
+##### Conclusion:
+The Competitor Test helps ensure that your responses are detailed and specific to the company you're interviewing with. Tailoring your answers this way demonstrates your understanding of the company's unique business model and challenges, making you a stronger candidate.
 
 ### Technical Interview
 
@@ -266,6 +292,15 @@ Technical interviews usually focus on two main areas: 1) Data Structures and Alg
 For Data Structures and Algorithms, I recommend practicing with [LeetCode](https://leetcode.com/). If you're looking for a solid book to build your foundation, I highly suggest [Data Structures and Basics of Algorithms by Dr. Ghodsi](https://fatemi.ir/book/%D8%AF%D8%A7%D8%AF%D9%87%E2%80%8C%D8%B3%D8%A7%D8%AE%D8%AA%D8%A7%D8%B1%D9%87%D8%A7-%D9%88-%D9%85%D8%A8%D8%A7%D9%86%DB%8C-%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85%E2%80%8C%D9%87%D8%A7/) for Persians.
 
 For System Design, I recommend checking out [The System Design Primer](https://github.com/donnemartin/system-design-primer) by Donne Martin, a Tech Lead at Meta. This resource covers all the key aspects of system design with plenty of examples. Plus, it's available in multiple languages. A great tip is to contribute to this repo. It’s a great way to enhance your GitHub profile, get involved with the open-source community, and learn more about projects.
+
+Sometimes, companies ask you to complete a take-home test, like developing a feature or functionality. Here are some important points to keep in mind:
+
+- If there’s a time limit, make sure you finish within it. Submitting a perfect solution after the deadline won’t impress companies.
+- Carefully read and understand the requirements, and ensure your solution addresses all of them.
+- Focus on the essential functionalities. Avoid creating an overly complex solution.
+- Choose an architecture that’s easy to build on and expand later.
+- Write tests to prove your code works, especially for edge cases.
+- If you don’t provide separate documentation, include plenty of comments and explanations in your code to make it easier to understand.
 
 ### Cultural Fit Interview
 
