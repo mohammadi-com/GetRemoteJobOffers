@@ -1,4 +1,4 @@
-# GetRemoteOffers - ASAP
+# Get Remote Job Offers - ASAP
 I created this guide out of my passion for the developer community. A star 🌟 on this repo would be greatly appreciated 🤗, as it motivates me to dedicate more time to it.
 
 If you have any comments, ideas, or appreciation, please use the [discussions](https://github.com/mohammadi-com/JobNavigator/discussions) tab. This is a continually updated, open source project. Don't hesitate to **clone**, **fork**, and submit **pull requests**!
@@ -84,9 +84,15 @@ Keep your cover letter simple, concise, and straight to the point. Put yourself 
 
 I've noticed some people skip the cover letter entirely, and that's a big mistake. Leaving it blank sends the message that you're not really serious about the opportunity.
 
-I've developed a tool that makes creating customized cover letters and tracking job applications easier—all in one place: https://docs.google.com/spreadsheets/d/1JLJsuzzWHczKW7iCFxVbFBNklphQIl29-j2WxLb1geQ/edit
+I've created a tool that simplifies writing custom cover letters and tracking job applications—all in one place: [Google Sheets link](https://docs.google.com/spreadsheets/d/1JLJsuzzWHczKW7iCFxVbFBNklphQIl29-j2WxLb1geQ/edit).
 
-If you think this could be helpful, feel free to email me at m[at]mohammadi.com, and I'll be happy to share a copy with you.
+If you want a free copy, just fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSf0D6mRqbtQ8CgmX6hMRF7JKRbw2edfMFL1XLSxfffJtYaf-g/viewform).
+
+<!-- Once you have the GSheet, activate the free GPT I included for generating personalized cover letters, like this:
+![alt text](./Images/GPTExtensionActivation.png) -->
+
+Don't forget to allow crawlers to access the job post, like this:
+![alt text](./Images/CrawlingAccess.png)
 
 ## Start Applying for Jobs
 There’s no magic platform or trick that guarantees job interviews. If your skills and experiences match a job posting, you’re likely to get an invitation for an interview. Below, I’ll introduce some of the main job listing platforms and offer some tips on how to effectively use them:
