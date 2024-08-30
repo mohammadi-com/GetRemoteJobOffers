@@ -19,6 +19,7 @@ This guide is designed like a to-do list, so there's no need to read it all at o
             <li><a href="#indeed">Indeed</a></li>
             <li><a href="#weworkremotely">WeWorkRemotely</a></li>
             <li><a href="#wellfound-formerly-angellist">Wellfound (Formerly AngelList)</a></li>
+            <li><a href="#otta">Otta</a></li>
             <li><a href="#golangprojects">GolangProjects</a></li>
             <li><a href="#cold-email">Cold Email</a></li>
             <li><a href="#referrals">Referrals</a></li>
@@ -145,6 +146,8 @@ One thing to note: when creating your account, you'll be asked about the types o
 ### [Wellfound (Formerly AngelList)](https://wellfound.com/)
 [Wellfound](https://wellfound.com/) focuses on startup job opportunities, especially in North America. However, keep in mind that if you have more than a 2-hour time zone difference, your chances of landing an interview might decrease.
 
+### [Otta](https://otta.com/)
+[Otta](https://otta.com/) is a new job listing platform that takes a fresh approach by focusing on showing the best-fit jobs for you. While it may not have an extensive number of listings yet, it's definitely worth checking out.
 
 ### [GolangProjects](https://www.golangprojects.com/)
 [GolangProjects](https://www.golangprojects.com/) is dedicated to Go developers, making it a solid resource for Go-related job opportunities.
