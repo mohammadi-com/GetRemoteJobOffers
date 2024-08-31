@@ -54,7 +54,7 @@ First off, it's crucial to read job descriptions carefully and tailor your CV an
 
 If you know how to use LaTeX (if not, it’s a good skill to learn 😁), you can find lots of [free resume templates here](https://www.latextemplates.com/cat/curricula-vitae). Pick a CV style you like. I recommend a one-column layout.
 
-When you write your CV and update your profiles, think about the job you want. It helps to keep your focus narrow. Look at job ads that interest you, notice the skills and words they use, and make sure your CV shows that you have those skills.
+It might seem counterintuitive, but it's better to keep your job search focused. For instance, if you know you want to be a back-end engineer specializing in Python, don't apply for every software engineer role out there. By narrowing your focus, you can tailor your resume, LinkedIn, and other profiles to match exactly what you're looking for. This makes you a stronger candidate for the jobs that really matter to you.
 
 Here's a simple way to create your CV:
 ### Root CV
@@ -69,7 +69,7 @@ Notes:
 - Don’t rely on ChatGPT to write your entire resume. Instead, draft it yourself and use ChatGPT as a helper. A simple prompt like, “Rewrite and keep my tone,” can refine your text while preserving authenticity, eliminating grammar or dictation errors, and often enhancing the wording.
 - Use **Job Keywords** in your resume.
 - **Include relevant public profile** pages in your CV (like GitHub, StackOverflow, Kaggle, etc.). Only add them if they showcase your skills; empty profiles won't help and could even hurt your application. Make sure these links strengthen your application, not weaken it.
-If your contributions on Github is more on private repositories, you can show your contributions on your profile withou exposing the code. Read the guide for [Showing your private contributions and achievements on your Github profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/showing-your-private-contributions-and-achievements-on-your-profile).
+If your contributions on Github is more on private repositories, you can show your contributions on your profile without exposing the code. Read the guide for [Showing your private contributions and achievements on your Github profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/showing-your-private-contributions-and-achievements-on-your-profile).
 - **Check for grammar and spelling mistakes** using [Grammarly.com](https://www.grammarly.com/). Writing correctly is crucial as it reflects your attention to detail.
 - **Ensure all links work** properly across different environments.
 - **Include the location for each job.** If you have remote work experience, label it as “remote.” This is a positive signal for remote-first companies, showing you’re experienced in remote team collaboration.
