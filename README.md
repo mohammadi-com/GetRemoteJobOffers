@@ -62,6 +62,10 @@ First, write a detailed CV. Don’t worry about making it short; include everyth
 ### Derivative CV
 For each job you apply for, pick the top 3-4 most relevant points from your detailed CV and hide the rest (easy to do in LaTeX). This way, you make a CV that highlights what's most important for that job. You can use [JobScan](https://www.jobscan.co/) to check how well your CV matches the job description.
 
+Start with the most important information. If your education is the most relevant, list it first. If your open-source projects are the best match for the job, highlight them at the top. If your experience is the strongest fit, lead with that.
+
+For instance, if you're applying for a remote job with a European company, showcase any experience you have working with Europeans right away. This shows you understand their work culture. If the employer is in the healthcare industry and you have an article on healthcare data analysis, don't bury it on the second page. Put it at the top to grab the recruiter's attention.
+
 ### Optimize for ATS
 Before a person sees your resume, a computer system called an ATS might check it first. Make sure your resume is easy for this system to read. This can help you get noticed and hopefully get an interview. You can upload your resume to [ResumeWorded](https://resumeworded.com/) to get tips on making it better. Even if you don’t agree with all the advice, try to use the feedback to improve your resume.
 
@@ -79,9 +83,11 @@ If your contributions on Github is more on private repositories, you can show yo
 
 
 ## Customized Cover Letter Generation
-A resume is a finely-tuned document that takes a lot of effort to perfect. This makes it challenging to customize every single time (though if you can, that's fantastic). That's where a cover letter comes in—it's your chance to build on your resume and explain why you're the ideal candidate for this specific job.
+A cover letter is your opportunity to expand on your resume and make a real connection with the recruiter, showing why you're the perfect fit for this specific role.
 
-Keep your cover letter simple, concise, and straight to the point. Put yourself in the recruiter's shoes: Why should they choose you? Make yourself stand out. How? Start by carefully reading the job posting and researching the company. In your cover letter, be genuine—share which aspects of their business resonate with you and highlight the skills and expertise you bring to the table that align with the job.
+Your resume highlights your skills, but your cover letter is where you get to tell a story, forge a personal connection, and hook the recruiter. For instance, when I applied to Amadeus, I emphasized how the travel industry hasn't seen significant change in the last 50 years and how I believed Amadeus was well-positioned to lead a breakthrough. I meant every word, and I still stand by that view.
+
+Keep your cover letter simple, concise, and to the point. Think from the recruiter's perspective: Why should they pick you? Make yourself memorable by thoroughly understanding the job posting and researching the company. Be sincere in your cover letter—mention the aspects of their business that resonate with you, and showcase the skills and expertise you bring that align perfectly with the role.
 
 I've noticed some people skip the cover letter entirely, and that's a big mistake. Leaving it blank sends the message that you're not really serious about the opportunity.
 
