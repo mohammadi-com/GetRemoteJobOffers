@@ -7,8 +7,8 @@ This guide is designed like a to-do list, so there's no need to read it all at o
 
 ## Steps
 <ol>
-    <li><a href="#resume-prepration">Resume Prepration</a></li>
-    <li><a href="#customized-cover-letter-generation">Customized Cover Letter Generation</a></li>
+    <li><a href="#resume-preparation">Resume Prepration</a></li>
+    <li><a href="#customized-cover-letter">Customized Cover Letter</a></li>
     <li><a href="#start-applying-for-jobs">Start Applying for Jobs</a>
         <ul>
             <li><a href="#linkedin">LinkedIn</a></li>
@@ -66,10 +66,7 @@ Start with the most important information. If your education is the most relevan
 
 For instance, if you're applying for a remote job with a European company, showcase any experience you have working with Europeans right away. This shows you understand their work culture. If the employer is in the healthcare industry and you have an article on healthcare data analysis, don't bury it on the second page. Put it at the top to grab the recruiter's attention.
 
-### Optimize for ATS
-Before a person sees your resume, a computer system called an ATS might check it first. Make sure your resume is easy for this system to read. This can help you get noticed and hopefully get an interview. You can upload your resume to [ResumeWorded](https://resumeworded.com/) to get tips on making it better. Even if you don’t agree with all the advice, try to use the feedback to improve your resume.
-
-Notes:
+**CV Tips**:
 - Don’t rely on ChatGPT to write your entire resume. Instead, draft it yourself and use ChatGPT as a helper. A simple prompt like, “Rewrite and keep my tone,” can refine your text while preserving authenticity, eliminating grammar or dictation errors, and often enhancing the wording.
 - Use **Job Keywords** in your resume.
 - **Include relevant public profile** pages in your CV (like GitHub, StackOverflow, Kaggle, etc.). Only add them if they showcase your skills; empty profiles won't help and could even hurt your application. Make sure these links strengthen your application, not weaken it.
@@ -79,10 +76,12 @@ If your contributions on Github is more on private repositories, you can show yo
 - **Include the location for each job.** If you have remote work experience, label it as “remote.” This is a positive signal for remote-first companies, showing you’re experienced in remote team collaboration.
 - Avoid labeling yourself as a **Full Stack Engineer/Developer** unless you have at least 8 years of experience and are truly proficient in both front-end and back-end development. I prefer using the term **Software Engineer**. In your resume, you can list the technologies you've worked with, specifying whether they are front-end or back-end, in the description section.
 - **Remove the languages section** unless you know a language that would be beneficial for the employer. Companies assume you know English, and proficiency in your native language isn't usually relevant to them.
+- **Avoid using just one accent color**. It makes the content dull and unengaging for a real human reader.
 
+### Optimize for ATS
+Before a person sees your resume, a computer system called an ATS might check it first. Make sure your resume is easy for this system to read. This can help you get noticed and hopefully get an interview. You can upload your resume to [ResumeWorded](https://resumeworded.com/) to get tips on making it better. Even if you don’t agree with all the advice, try to use the feedback to improve your resume.
 
-
-## Customized Cover Letter Generation
+## Customized Cover Letter
 A cover letter is your opportunity to expand on your resume and make a real connection with the recruiter, showing why you're the perfect fit for this specific role.
 
 Your resume highlights your skills, but your cover letter is where you get to tell a story, forge a personal connection, and hook the recruiter. For instance, when I applied to Amadeus, I emphasized how the travel industry hasn't seen significant change in the last 50 years and how I believed Amadeus was well-positioned to lead a breakthrough. I meant every word, and I still stand by that view.
