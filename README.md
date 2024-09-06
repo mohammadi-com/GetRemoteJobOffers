@@ -304,6 +304,8 @@ The Competitor Test helps ensure that your responses are detailed and specific t
 
 Technical interviews usually focus on two main areas: 1) Data Structures and Algorithms, and 2) System Design.
 
+Technical tests can be online, live coding, or take-home. For take-home tests, you have more time to work on a small project. In online and live coding tests, time is limited, so the focus is more on problem-solving skills and understanding programming languages and frameworks. I find the live and online tests to be the most challenging, so it’s important to be well-prepared for them. I assume you already have resources to prepare for your programming language and frameworks (if not, let me know, and I can provide some for you).
+
 For Data Structures and Algorithms, I recommend practicing with [LeetCode](https://leetcode.com/). If you're looking for a solid book to build your foundation, I highly suggest [Data Structures and Basics of Algorithms by Dr. Ghodsi](https://fatemi.ir/book/%D8%AF%D8%A7%D8%AF%D9%87%E2%80%8C%D8%B3%D8%A7%D8%AE%D8%AA%D8%A7%D8%B1%D9%87%D8%A7-%D9%88-%D9%85%D8%A8%D8%A7%D9%86%DB%8C-%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85%E2%80%8C%D9%87%D8%A7/) for Persians.
 
 For System Design, I recommend checking out [The System Design Primer](https://github.com/donnemartin/system-design-primer) by Donne Martin, a Tech Lead at Meta. This resource covers all the key aspects of system design with plenty of examples. Plus, it's available in multiple languages. A great tip is to contribute to this repo. It’s a great way to enhance your GitHub profile, get involved with the open-source community, and learn more about projects.
