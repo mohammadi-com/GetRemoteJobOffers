@@ -57,9 +57,9 @@ If you know how to use LaTeX (if not, it’s a good skill to learn 😁), you ca
 It might seem counterintuitive, but it's better to keep your job search focused. For instance, if you know you want to be a back-end engineer specializing in Python, don't apply for every software engineer role out there. By narrowing your focus, you can tailor your resume, LinkedIn, and other profiles to match exactly what you're looking for. This makes you a stronger candidate for the jobs that really matter to you.
 
 Here's a simple way to create your CV:
-### Root CV
+### Master CV
 First, write a detailed CV. Don’t worry about making it short; include everything. For each job you've had, list at least ten things you did. This full version will be your base for making shorter ones tailored to each job.
-### Derivative CV
+### Tailored CV
 For each job you apply for, pick the top 3-4 most relevant points from your detailed CV and hide the rest (easy to do in LaTeX). This way, you make a CV that highlights what's most important for that job. You can use [JobScan](https://www.jobscan.co/) to check how well your CV matches the job description.
 
 Start with the most important information. If your education is the most relevant, list it first. If your open-source projects are the best match for the job, highlight them at the top. If your experience is the strongest fit, lead with that.
