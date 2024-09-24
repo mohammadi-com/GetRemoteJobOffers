@@ -50,9 +50,9 @@ This guide is designed like a to-do list, so there's no need to read it all at o
 </ol>
 
 ## Resume Preparation
-First off, it's crucial to read job descriptions carefully and tailor your CV and cover letter to match them. It's completely normal to spend about 30-60 minutes on each job application. Preparing a proper job application takes time. That’s why I often say that applying for jobs is a full-time job in itself! Taking the time to customize your application can significantly increase your chances of getting noticed and ultimately landing an interview.
+First off, it's crucial to read job descriptions carefully and tailor your CV and cover letter to match them. It's completely normal to spend about 30-60 minutes on each job application. Preparing a proper job application takes time. That’s why I often say that applying for jobs is a full-time job in itself! Taking the time to craft your application can significantly increase your chances of getting noticed and ultimately landing an interview.
 
-If you know how to use LaTeX (if not, it’s a good skill to learn 😁), you can find lots of [free resume templates here](https://www.latextemplates.com/cat/curricula-vitae). Pick a CV style you like. I recommend a one-column layout.
+You can find many [free resume templates here](https://www.latextemplates.com/cat/curricula-vitae). Choose a CV style that you like—I'd suggest going for a one-column layout. If you're familiar with LaTeX, great! If not, you can use [Overleaf's visual editor](https://www.overleaf.com/) to easily create your resume.
 
 It might seem counterintuitive, but it's better to keep your job search focused. For instance, if you know you want to be a back-end engineer specializing in Python, don't apply for every software engineer role out there. By narrowing your focus, you can tailor your resume, LinkedIn, and other profiles to match exactly what you're looking for. This makes you a stronger candidate for the jobs that really matter to you.
 
