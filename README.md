@@ -290,6 +290,13 @@ List of Top 10 Interview Questions based on [Indeed](https://www.indeed.com/care
 - Describe how you deal with conflict in the workplace.
 - What’s your preferred work environment/leadership style?
 - Why should we hire you over other qualified candidates?
+- Can you describe to me a time when you had to balance multiple competing prior?
+- Do you work well under pressure?
+- How would you deal with a different coworker?
+- What would you do if your boss ask you to do something that you disagreed with?
+- What would you do in the first week of starting work here?
+- What's your ideal boss?
+- What are the three things that are most important to you in a job?
 
 For more in-depth prep, the [BigInterview YouTube channel](https://www.youtube.com/@Biginterview) is packed with resources and sample answers for a wide range of interview questions. You’ll likely find a relevant video for any question you might be wondering about.
 
