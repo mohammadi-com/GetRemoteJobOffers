@@ -14,7 +14,6 @@ This guide is designed like a to-do list, so there's no need to read it all at o
             <li><a href="#linkedin">LinkedIn</a></li>
             <li><a href="#cord">Cord</a></li>
             <li><a href="#remoteok">RemoteOK</a></li>
-            <li><a href="#honeypot">HoneyPot</a></li>
             <li><a href="#glassdoor">Glassdoor</a></li>
             <li><a href="#indeed">Indeed</a></li>
             <li><a href="#weworkremotely">WeWorkRemotely</a></li>
@@ -69,6 +68,7 @@ For instance, if you're applying for a remote job with a European company, showc
 **CV Tips**:
 - Don’t rely on ChatGPT to write your entire resume. Instead, draft it yourself and use ChatGPT as a helper. A simple prompt like, “Rewrite and keep my tone,” can refine your text while preserving authenticity, eliminating grammar or dictation errors, and often enhancing the wording.
 - Use **Job Keywords** in your resume.
+- Name at least **10 skills** in each job experience.
 - **Include relevant public profile** pages in your CV (like GitHub, StackOverflow, Kaggle, etc.). Only add them if they showcase your skills; empty profiles won't help and could even hurt your application. Make sure these links strengthen your application, not weaken it.
 If your contributions on Github is more on private repositories, you can show your contributions on your profile without exposing the code. Read the guide for [Showing your private contributions and achievements on your Github profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/showing-your-private-contributions-and-achievements-on-your-profile).
 - **Check for grammar and spelling mistakes** using [Grammarly.com](https://www.grammarly.com/). Writing correctly is crucial as it reflects your attention to detail.
@@ -91,14 +91,9 @@ Keep your cover letter simple, concise, and to the point. Think from the recruit
 I've noticed some people skip the cover letter entirely, and that's a big mistake. Leaving it blank sends the message that you're not really serious about the opportunity.
 
 I've created a tool that simplifies writing custom cover letters and tracking job applications—all in one place: [Google Sheets link](https://docs.google.com/spreadsheets/d/1JLJsuzzWHczKW7iCFxVbFBNklphQIl29-j2WxLb1geQ/edit).
-
 If you want a free copy, just fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSf0D6mRqbtQ8CgmX6hMRF7JKRbw2edfMFL1XLSxfffJtYaf-g/viewform).
 
-<!-- Once you have the GSheet, activate the free GPT I included for generating personalized cover letters, like this:
-![alt text](./Images/GPTExtensionActivation.png) -->
 
-Don't forget to allow crawlers to access the job post, like this:
-![alt text](./Images/CrawlingAccess.png)
 
 ## Start Applying for Jobs
 There’s no magic platform or trick that guarantees job interviews. If your skills and experiences match a job posting, you’re likely to get an invitation for an interview. Below, I’ll introduce some of the main job listing platforms and offer some tips on how to effectively use them:
@@ -107,6 +102,7 @@ There’s no magic platform or trick that guarantees job interviews. If your ski
 As you may know, [LinkedIn](https://www.linkedin.com/jobs/) is the main source for job opportunities, so start applying there. Here are some tips:
 
 - **Complete your profile.** Consider using LinkedIn Premium for AI-assisted headlines, personalized text, and deeper insights into the job market.
+- Get a **verified Linkedin** if possible. Linkedin's algorithim seems be more likekly to show your profile to recruiters.
 - Turn on **Open to Work**
 - **Request recommendations** from former co-workers to strengthen your profile.
 - **Use a friendly, not overly formal profile picture.** A close-up of your face is ideal—skip the full-length shot—and make sure it’s visible to others.
@@ -126,14 +122,6 @@ Absolutely, LinkedIn is a powerhouse for job hunting, but don't sleep on other p
 
 ### [RemoteOK](https://remoteok.com/)
 If you're after remote work, [RemoteOK](https://remoteok.com/) is a gem.
-
-
-### [HoneyPot](https://www.honeypot.io/)
-[HoneyPot](https://www.honeypot.io/) is a reverse-apply platform, meaning you set up your profile, and companies come to you with job opportunities. The great part is that once your profile is ready, you don't have to do much else. We also leverage HoneyPot for its resources. One standout feature is the dedicated talent advisor who can set up mock interviews for you at no cost, so you can practice before the real thing—definitely a game-changer.
-
-They also have a [dev-community](https://cult.honeypot.io/) packed with in-depth reports, offering valuable insights into the job market if that’s something you're interested in.
-
-One thing to note: when creating your account, you'll be asked about the types of jobs you're after. If you say you're only looking for remote roles, your account might not get activated. A better strategy is to indicate that you're open to jobs and willing to relocate, but with a preference for remote work. This is actually realistic because if an amazing relocation offer comes your way, you might just take it.
 
 
 ### [Glassdoor](https://www.glassdoor.com/Job/index.htm)
@@ -345,6 +333,13 @@ Sometimes, companies ask you to complete a take-home test, like developing a fea
 - Choose an architecture that’s easy to build on and expand later.
 - Write tests to prove your code works, especially for edge cases.
 - If you don’t provide separate documentation, include plenty of comments and explanations in your code to make it easier to understand.
+
+### Take Home Test
+If you’re assigned a take-home test, pause before jumping into coding and take time to design the system on paper. Start by outlining the architecture, interfaces, APIs, models, and other components. Once you have a clear plan, search online using a combination of keywords like [company name] + [role] + GitHub. This can help you find similar tasks others may have completed and shared publicly, providing valuable ideas for your implementation.
+
+Key Notes:
+- Include clear and detailed documentation with your code.
+- Ensure your tests achieve 100% coverage for robust validation.
 
 ### Cultural Fit Interview
 
