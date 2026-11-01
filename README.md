@@ -223,6 +223,8 @@ Practice makes perfect. Just like you’d do mock tests before a driving test, m
 
 - [HoneyPot](https://www.honeypot.io/): As mentioned earlier, you can set up free mock interviews with your talent advisor.
 
+- [Interview Answer Timer](https://makeinterview.com/en/tools/interview-answer-timer): A free, no-login tool for solo rehearsal between peer or mentor sessions. Time two attempts and mark an evidence checklist yourself; it does not record, transcribe, or score answers.
+
 ### Look Presentable
 First impressions count. Make sure your background is clean and free of distractions. Comb your hair, wear appropriate clothing—not too formal, but not too casual either. Also, position your camera at eye level. When the camera is below you, makes a scray image of you.
 
